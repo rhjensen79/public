@@ -1,9 +1,0 @@
-[Unit]
-Description= Visual Studio Code Server.
-
-[Service]
-Type=simple
-ExecStart=/bin/bash /usr/bin/code-server.sh
-
-[Install]
-WantedBy=multi-user.target
