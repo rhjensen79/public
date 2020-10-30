@@ -9,6 +9,6 @@ Public repo, for sharing Presentations etc. from public speaking events, but als
 - Automation User Group VRA 8.1 :  https://www.youtube.com/watch?v=MwRQkWL4e-M&t=3346s
 
 ### Podcasts
-- Hosted  all the podcasts : https://vupdate.zencast.website
-- Spoke at Terraform Podcast : https://vupdate.zencast.website/episodes/3
+- Hosted  all the podcasts : https://vupdate.dk
+- Spoke at Terraform Podcast : https://vupdate.dk/episodes/3
 
